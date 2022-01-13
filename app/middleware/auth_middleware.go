@@ -3,11 +3,11 @@ package middleware
 import (
 	"strconv"
 
-	"github.com/blogs/app/repository"
-	"github.com/blogs/app/response"
-	"github.com/blogs/db"
 	"github.com/go-redis/redis/v7"
 	"github.com/labstack/echo/v4"
+	"github.com/nhatthanh123bk/E-commerce-website/app/repository"
+	"github.com/nhatthanh123bk/E-commerce-website/app/response"
+	"github.com/nhatthanh123bk/E-commerce-website/db"
 )
 
 func UserAuth(next echo.HandlerFunc) echo.HandlerFunc {

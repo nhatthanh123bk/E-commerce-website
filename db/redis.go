@@ -1,8 +1,8 @@
 package db
 
 import (
-	"github.com/blogs/helper"
 	"github.com/go-redis/redis/v7"
+	"github.com/nhatthanh123bk/E-commerce-website/helper"
 )
 
 var RedisClient *redis.Client

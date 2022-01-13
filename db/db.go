@@ -1,11 +1,10 @@
 package db
 
 import (
-	"github.com/blogs/app/model"
+	"github.com/nhatthanh123bk/E-commerce-website/app/model"
+	"github.com/nhatthanh123bk/E-commerce-website/helper"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
-	"github.com/blogs/helper"
-
 )
 
 var DB *gorm.DB

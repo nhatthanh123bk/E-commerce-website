@@ -1,4 +1,4 @@
-module github.com/blogs
+module github.com/nhatthanh123bk/E-commerce-website
 
 go 1.17
 

@@ -1,11 +1,11 @@
 package controller
 
 import (
-	"github.com/blogs/app/model"
-	"github.com/blogs/app/response"
+	"github.com/nhatthanh123bk/E-commerce-website/app/model"
+	"github.com/nhatthanh123bk/E-commerce-website/app/response"
 
-	"github.com/blogs/app/repository"
-	"github.com/blogs/helper"
+	"github.com/nhatthanh123bk/E-commerce-website/app/repository"
+	"github.com/nhatthanh123bk/E-commerce-website/helper"
 
 	"github.com/labstack/echo/v4"
 )

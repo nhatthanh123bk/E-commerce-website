@@ -3,9 +3,9 @@ package route
 import (
 	"net/http"
 
-	"github.com/blogs/app/controller"
-	"github.com/blogs/app/middleware"
 	"github.com/labstack/echo/v4"
+	"github.com/nhatthanh123bk/E-commerce-website/app/controller"
+	"github.com/nhatthanh123bk/E-commerce-website/app/middleware"
 )
 
 func Init() *echo.Echo {

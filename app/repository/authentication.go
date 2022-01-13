@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/blogs/app/model"
-	"github.com/blogs/db"
-	"github.com/blogs/helper"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/go-redis/redis/v7"
 	"github.com/labstack/echo/v4"
+	"github.com/nhatthanh123bk/E-commerce-website/app/model"
+	"github.com/nhatthanh123bk/E-commerce-website/db"
+	"github.com/nhatthanh123bk/E-commerce-website/helper"
 	"github.com/twinj/uuid"
 )
 

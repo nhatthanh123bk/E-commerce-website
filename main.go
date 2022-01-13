@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/blogs/db"
-	"github.com/blogs/helper"
-	"github.com/blogs/route"
+	"github.com/nhatthanh123bk/E-commerce-website/db"
+	"github.com/nhatthanh123bk/E-commerce-website/helper"
+	"github.com/nhatthanh123bk/E-commerce-website/route"
 )
 
 func main() {

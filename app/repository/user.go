@@ -3,9 +3,9 @@ package repository
 import (
 	"errors"
 
-	"github.com/blogs/app/model"
-	"github.com/blogs/db"
-	"github.com/blogs/helper"
+	"github.com/nhatthanh123bk/E-commerce-website/app/model"
+	"github.com/nhatthanh123bk/E-commerce-website/db"
+	"github.com/nhatthanh123bk/E-commerce-website/helper"
 	"golang.org/x/crypto/bcrypt"
 )
 
